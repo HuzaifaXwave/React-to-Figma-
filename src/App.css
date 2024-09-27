@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.ScooterImg{
+    width: 40%;   
+}
+.ScooterBgImg{
+    z-index: -100;
+    position: absolute;
+    top: 200px;
+    left: 150px;  
+}
+.ScooterBorder1Img{
+    z-index: -100;
+    position: absolute;
+    top: 190px;
+    left: 140px;
+    width: 53%;
+}
+.ScooterBorder2Img{
+    z-index: -100;
+    position: absolute;
+    top: 180px;
+    left: 130px;
+    width: 57%;
+}
+
